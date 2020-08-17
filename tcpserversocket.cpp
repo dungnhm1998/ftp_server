@@ -1,0 +1,93 @@
+#ifdef _WIN32
+#include <winsock2.h>         // For socket(), connect(), send(), and recv()
+#include <ws2tcpip.h>
+typedef int socklen_t;
+typedef char raw_type;       // Type used for raw data on this platform
+#else
+#include <sys/types.h>       // For data types
+#include <sys/socket.h>      // For socket(), connect(), send(), and recv()
+#include <netdb.h>           // For gethostbyname()
+#include <arpa/inet.h>       // For inet_addr()
+#include <unistd.h>          // For close()
+#include <netinet/in.h>      // For sockaddr_in
+typedef void raw_type;       // Type used for raw data on this platform
+#endif
+
+#include <errno.h>             // For errno
+#include "tcpserversocket.h"
+
+//using namespace std;
+TcpServerSocket::TcpServerSocket():Socket(SOCK_STREAM, IPPROTO_TCP)
+{
+}
+
+TcpServerSocket::TcpServerSocket(unsigned short localPort, int queueLen):Socket(SOCK_STREAM, IPPROTO_TCP)
+{
+    setLocalPort(localPort);
+    listen(queueLen);
+}
+
+TcpServerSocket::TcpServerSocket(const string &localAddress,
+                                 unsigned short localPort, int queueLen): Socket(SOCK_STREAM, IPPROTO_TCP)
+{
+    setLocalAddressAndPort(localAddress, localPort);
+    listen(queueLen);
+}
+void TcpServerSocket::setListen(unsigned short localPort, int queueLength)
+{
+    if(sockDesc==-1)
+    {
+        // Make a new socket
+        if ((sockDesc = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP)) < 0)
+        {
+            throw SocketException("Socket creation failed (socket())", true);
+        }
+    }
+    setLocalPort(localPort);
+    listen(queueLength);
+}
+
+TcpSocket *TcpServerSocket::accept(long timeout)
+{
+    int newConnSD;
+    if(timeout==0)
+    {
+        if ((newConnSD = ::accept(sockDesc, NULL, 0)) < 0)
+        {
+            throw SocketException("Accept failed (accept())", true);
+        }
+    }
+    else
+    {
+        fd_set	rfds;			/* read file descriptor set	*/
+        FD_ZERO(&rfds);
+        timeval tv = {timeout,0};
+        FD_SET(sockDesc,&rfds);
+        int ret;
+        if ((ret = select(sockDesc+1, &rfds, NULL, NULL,&tv)) < 0) // Error
+        {
+            throw SocketException("Select failed (select())", true);
+        }
+        else if(ret > 0) // Has new connections
+        {
+            if (FD_ISSET(sockDesc, &rfds))
+            {
+                if ((newConnSD = ::accept(sockDesc, NULL, 0)) < 0)
+                {
+                    throw SocketException("Accept failed (accept())", true);
+                }
+            }
+        } else { // timeout with no connection
+            return NULL;
+        }
+    }
+    return new TcpSocket(newConnSD);
+}
+
+void TcpServerSocket::listen(int queueLen)
+{
+    if (::listen(sockDesc, queueLen) < 0)
+    {
+        throw SocketException("Set listening socket failed (listen())", true);
+    }
+}

@@ -1,0 +1,780 @@
+# depslib dependency file v1.0
+1585810100 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1585810079 d:\documents\lthtm\bai tap\codeblock\ftpserver\cli.h
+	<cstdint>
+	<string>
+
+1585563645 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\random.cpp
+	"random.h"
+	<string>
+	<ctime>
+
+1585563685 d:\documents\lthtm\bai tap\codeblock\ftpserver\random.h
+	<string>
+
+1590078759 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\serverconfig.cpp
+	<cstring>
+	<iostream>
+	"serverconfig.h"
+
+1590076096 d:\documents\lthtm\bai tap\codeblock\ftpserver\serverconfig.h
+	<string>
+	<unordered_map>
+
+1588418131 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\session.cpp
+	"session.h"
+
+1588418119 d:\documents\lthtm\bai tap\codeblock\ftpserver\session.h
+	"tcpsocket.h"
+	"serverconfig.h"
+
+1586256327 d:\documents\lthtm\bai tap\codeblock\ftpserver\tcpsocket.h
+	"socket.h"
+
+1583727598 d:\documents\lthtm\bai tap\codeblock\ftpserver\socket.h
+	<string>
+	<exception>
+
+1589703794 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\smtpserver.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"smtpserver.h"
+	"random.h"
+
+1589703794 d:\documents\lthtm\bai tap\codeblock\ftpserver\smtpserver.h
+	<mutex>
+	<fstream>
+	"tcpserver.h"
+	"smtpsession.h"
+	"smtpserverconfig.h"
+
+1588775852 d:\documents\lthtm\bai tap\codeblock\ftpserver\tcpserver.h
+	"tcpserversocket.h"
+	"session.h"
+
+1585316080 d:\documents\lthtm\bai tap\codeblock\ftpserver\tcpserversocket.h
+	"tcpsocket.h"
+
+1589703794 d:\documents\lthtm\bai tap\codeblock\ftpserver\smtpsession.h
+	<vector>
+	"tcpserversocket.h"
+	"session.h"
+	"smtpserverconfig.h"
+
+1589703794 d:\documents\lthtm\bai tap\codeblock\ftpserver\smtpserverconfig.h
+	"serverconfig.h"
+
+1589703794 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\smtpserverconfig.cpp
+	<fstream>
+	<cstring>
+	"smtpserverconfig.h"
+
+1589703794 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\smtpsession.cpp
+	<cstring>
+	<algorithm>
+	<fstream>
+	<iostream>
+	"smtpsession.h"
+	"smtpserverconfig.h"
+	"random.h"
+
+1583507332 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1588774400 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\tcpserver.cpp
+	<thread>
+	<thread>
+	<iostream>
+	"tcpserver.h"
+
+1585203401 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\tcpserversocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpserversocket.h"
+
+1586256364 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1589724449 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\ftpserver.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"ftpserver.h"
+	"random.h"
+
+1589856586 d:\documents\lthtm\bai tap\codeblock\ftpserver\ftpserver.h
+	<mutex>
+	<fstream>
+	"tcpserver.h"
+	"ftpsession.h"
+	"ftpserverconfig.h"
+
+1590076096 d:\documents\lthtm\bai tap\codeblock\ftpserver\ftpsession.h
+	<vector>
+	"tcpserversocket.h"
+	"session.h"
+	"ftpserverconfig.h"
+
+1590079909 d:\documents\lthtm\bai tap\codeblock\ftpserver\ftpserverconfig.h
+	"serverconfig.h"
+	<iterator>
+	<map>
+
+1590202621 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\ftpserverconfig.cpp
+	<fstream>
+	<cstring>
+	"ftpserverconfig.h"
+	"string.h"
+	<iostream>
+
+1590202351 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\ftpsession.cpp
+	<cstring>
+	<algorithm>
+	<fstream>
+	<iostream>
+	"ftpsession.h"
+	"ftpserverconfig.h"
+	"random.h"
+
+1589725497 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\main.cpp
+	<iostream>
+	"servercli.h"
+
+1589727180 d:\documents\lthtm\bai tap\codeblock\ftpserver\servercli.h
+	"cli.h"
+	"ftpserver.h"
+	<windows.h>
+
+1589727163 source:d:\documents\lthtm\bai tap\codeblock\ftpserver\servercli.cpp
+	<iostream>
+	"servercli.h"
+
+1585810100 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1585810079 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\cli.h
+	<cstdint>
+	<string>
+
+1589724449 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\ftpserver.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"ftpserver.h"
+	"random.h"
+
+1589856586 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\ftpserver.h
+	<mutex>
+	<fstream>
+	"tcpserver.h"
+	"ftpsession.h"
+	"ftpserverconfig.h"
+
+1588775852 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\tcpserver.h
+	"tcpserversocket.h"
+	"session.h"
+
+1585316080 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\tcpserversocket.h
+	"tcpsocket.h"
+
+1586256327 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\tcpsocket.h
+	"socket.h"
+
+1583727598 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\socket.h
+	<string>
+	<exception>
+
+1588418119 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\session.h
+	"tcpsocket.h"
+	"serverconfig.h"
+
+1590076096 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\serverconfig.h
+	<string>
+	<unordered_map>
+
+1590637160 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\ftpsession.h
+	<vector>
+	"tcpserversocket.h"
+	"session.h"
+	"ftpserverconfig.h"
+
+1590079909 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\ftpserverconfig.h
+	"serverconfig.h"
+	<iterator>
+	<map>
+
+1585563685 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\random.h
+	<string>
+
+1590632986 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\ftpserverconfig.cpp
+	<fstream>
+	<cstring>
+	"ftpserverconfig.h"
+	"string.h"
+	<iostream>
+
+1589725497 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\main.cpp
+	<iostream>
+	"servercli.h"
+
+1589727180 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\servercli.h
+	"cli.h"
+	"ftpserver.h"
+	<windows.h>
+
+1585563645 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\random.cpp
+	"random.h"
+	<string>
+	<ctime>
+
+1589727163 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\servercli.cpp
+	<iostream>
+	"servercli.h"
+
+1590078759 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\serverconfig.cpp
+	<cstring>
+	<iostream>
+	"serverconfig.h"
+
+1588418131 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\session.cpp
+	"session.h"
+
+1583507332 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1588774400 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\tcpserver.cpp
+	<thread>
+	<thread>
+	<iostream>
+	"tcpserver.h"
+
+1585203401 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\tcpserversocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpserversocket.h"
+
+1586256364 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1590638008 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftp-demo\ftpserver\ftpsession.cpp
+	<cstring>
+	<algorithm>
+	<fstream>
+	<iostream>
+	"ftpsession.h"
+	"ftpserverconfig.h"
+	"random.h"
+	<dirent.h>
+	<string.h>
+	<thread>
+
+1585810100 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1585810079 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\cli.h
+	<cstdint>
+	<string>
+
+1593658632 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\ftpserver.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"ftpserver.h"
+	"random.h"
+
+1589856586 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\ftpserver.h
+	<mutex>
+	<fstream>
+	"tcpserver.h"
+	"ftpsession.h"
+	"ftpserverconfig.h"
+
+1588775852 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\tcpserver.h
+	"tcpserversocket.h"
+	"session.h"
+
+1585316080 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\tcpserversocket.h
+	"tcpsocket.h"
+
+1586256327 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\tcpsocket.h
+	"socket.h"
+
+1583727598 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\socket.h
+	<string>
+	<exception>
+
+1588418119 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\session.h
+	"tcpsocket.h"
+	"serverconfig.h"
+
+1590076096 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\serverconfig.h
+	<string>
+	<unordered_map>
+
+1593662432 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\ftpsession.h
+	<vector>
+	"tcpserversocket.h"
+	"session.h"
+	"ftpserverconfig.h"
+	<mutex>
+
+1590079909 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\ftpserverconfig.h
+	"serverconfig.h"
+	<iterator>
+	<map>
+
+1585563685 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\random.h
+	<string>
+
+1590632986 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\ftpserverconfig.cpp
+	<fstream>
+	<cstring>
+	"ftpserverconfig.h"
+	"string.h"
+	<iostream>
+
+1589725497 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\main.cpp
+	<iostream>
+	"servercli.h"
+
+1589727180 j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\servercli.h
+	"cli.h"
+	"ftpserver.h"
+	<windows.h>
+
+1585563645 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\random.cpp
+	"random.h"
+	<string>
+	<ctime>
+
+1589727163 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\servercli.cpp
+	<iostream>
+	"servercli.h"
+
+1590078759 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\serverconfig.cpp
+	<cstring>
+	<iostream>
+	"serverconfig.h"
+
+1588418131 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\session.cpp
+	"session.h"
+
+1583507332 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1588774400 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\tcpserver.cpp
+	<thread>
+	<thread>
+	<iostream>
+	"tcpserver.h"
+
+1585203401 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\tcpserversocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpserversocket.h"
+
+1586256364 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1585810100 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1585810079 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\cli.h
+	<cstdint>
+	<string>
+
+1589724449 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\ftpserver.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"ftpserver.h"
+	"random.h"
+
+1589856586 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\ftpserver.h
+	<mutex>
+	<fstream>
+	"tcpserver.h"
+	"ftpsession.h"
+	"ftpserverconfig.h"
+
+1588775852 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\tcpserver.h
+	"tcpserversocket.h"
+	"session.h"
+
+1585316080 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\tcpserversocket.h
+	"tcpsocket.h"
+
+1586256327 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\tcpsocket.h
+	"socket.h"
+
+1583727598 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\socket.h
+	<string>
+	<exception>
+
+1588418119 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\session.h
+	"tcpsocket.h"
+	"serverconfig.h"
+
+1590076096 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\serverconfig.h
+	<string>
+	<unordered_map>
+
+1590637160 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\ftpsession.h
+	<vector>
+	"tcpserversocket.h"
+	"session.h"
+	"ftpserverconfig.h"
+
+1590079909 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\ftpserverconfig.h
+	"serverconfig.h"
+	<iterator>
+	<map>
+
+1585563685 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\random.h
+	<string>
+
+1590632986 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\ftpserverconfig.cpp
+	<fstream>
+	<cstring>
+	"ftpserverconfig.h"
+	"string.h"
+	<iostream>
+
+1589725497 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\main.cpp
+	<iostream>
+	"servercli.h"
+
+1589727180 c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\servercli.h
+	"cli.h"
+	"ftpserver.h"
+	<windows.h>
+
+1585563645 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\random.cpp
+	"random.h"
+	<string>
+	<ctime>
+
+1589727163 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\servercli.cpp
+	<iostream>
+	"servercli.h"
+
+1590078759 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\serverconfig.cpp
+	<cstring>
+	<iostream>
+	"serverconfig.h"
+
+1588418131 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\session.cpp
+	"session.h"
+
+1583507332 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1588774400 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\tcpserver.cpp
+	<thread>
+	<thread>
+	<iostream>
+	"tcpserver.h"
+
+1585203401 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\tcpserversocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpserversocket.h"
+
+1586256364 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1591022120 source:c:\users\mypc\desktop\lthtm\dalthtm\ftpserver-v2\ftpserver\ftpsession.cpp
+	<cstring>
+	<algorithm>
+	<fstream>
+	<iostream>
+	"ftpsession.h"
+	"ftpserverconfig.h"
+	"random.h"
+	<dirent.h>
+	<string.h>
+	<thread>
+
+1597330637 source:j:\frog\w-e-p\laptrinhhethongmang\doanlthtm\ftpserver\ftpserver\ftpsession.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	"ftpsession.h"
+	"ftpserverconfig.h"
+	"random.h"
+	<dirent.h>
+	<string.h>
+	<thread>
+	<fstream>
+	<windows.h>
+
+1585810100 source:c:\users\hung hoang\desktop\dung\ftpserver\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1585810079 c:\users\hung hoang\desktop\dung\ftpserver\cli.h
+	<cstdint>
+	<string>
+
+1593658632 source:c:\users\hung hoang\desktop\dung\ftpserver\ftpserver.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"ftpserver.h"
+	"random.h"
+
+1589856586 c:\users\hung hoang\desktop\dung\ftpserver\ftpserver.h
+	<mutex>
+	<fstream>
+	"tcpserver.h"
+	"ftpsession.h"
+	"ftpserverconfig.h"
+
+1588775852 c:\users\hung hoang\desktop\dung\ftpserver\tcpserver.h
+	"tcpserversocket.h"
+	"session.h"
+
+1585316080 c:\users\hung hoang\desktop\dung\ftpserver\tcpserversocket.h
+	"tcpsocket.h"
+
+1586256327 c:\users\hung hoang\desktop\dung\ftpserver\tcpsocket.h
+	"socket.h"
+
+1583727598 c:\users\hung hoang\desktop\dung\ftpserver\socket.h
+	<string>
+	<exception>
+
+1588418119 c:\users\hung hoang\desktop\dung\ftpserver\session.h
+	"tcpsocket.h"
+	"serverconfig.h"
+
+1590076096 c:\users\hung hoang\desktop\dung\ftpserver\serverconfig.h
+	<string>
+	<unordered_map>
+
+1593662432 c:\users\hung hoang\desktop\dung\ftpserver\ftpsession.h
+	<vector>
+	"tcpserversocket.h"
+	"session.h"
+	"ftpserverconfig.h"
+	<mutex>
+
+1590079909 c:\users\hung hoang\desktop\dung\ftpserver\ftpserverconfig.h
+	"serverconfig.h"
+	<iterator>
+	<map>
+
+1585563685 c:\users\hung hoang\desktop\dung\ftpserver\random.h
+	<string>
+
+1590632986 source:c:\users\hung hoang\desktop\dung\ftpserver\ftpserverconfig.cpp
+	<fstream>
+	<cstring>
+	"ftpserverconfig.h"
+	"string.h"
+	<iostream>
+
+1589725497 source:c:\users\hung hoang\desktop\dung\ftpserver\main.cpp
+	<iostream>
+	"servercli.h"
+
+1589727180 c:\users\hung hoang\desktop\dung\ftpserver\servercli.h
+	"cli.h"
+	"ftpserver.h"
+	<windows.h>
+
+1585563645 source:c:\users\hung hoang\desktop\dung\ftpserver\random.cpp
+	"random.h"
+	<string>
+	<ctime>
+
+1589727163 source:c:\users\hung hoang\desktop\dung\ftpserver\servercli.cpp
+	<iostream>
+	"servercli.h"
+
+1590078759 source:c:\users\hung hoang\desktop\dung\ftpserver\serverconfig.cpp
+	<cstring>
+	<iostream>
+	"serverconfig.h"
+
+1588418131 source:c:\users\hung hoang\desktop\dung\ftpserver\session.cpp
+	"session.h"
+
+1583507332 source:c:\users\hung hoang\desktop\dung\ftpserver\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1588774400 source:c:\users\hung hoang\desktop\dung\ftpserver\tcpserver.cpp
+	<thread>
+	<thread>
+	<iostream>
+	"tcpserver.h"
+
+1585203401 source:c:\users\hung hoang\desktop\dung\ftpserver\tcpserversocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpserversocket.h"
+
+1586256364 source:c:\users\hung hoang\desktop\dung\ftpserver\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1597246627 source:c:\users\hung hoang\desktop\dung\ftpserver\ftpsession.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	"ftpsession.h"
+	"ftpserverconfig.h"
+	"random.h"
+	<dirent.h>
+	<string.h>
+	<thread>
+	<fstream>
+	<windows.h>
+

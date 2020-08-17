@@ -1,0 +1,1877 @@
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple SMTP Server v1.0 is ready
+Client: MAIL FROM:<tuan@nuce.vn>
+Server: 250 Sender "tuan@nuce.vn" OK...
+Client: RCPT TO:<hung@nuce.vn>
+Server: 250 Recipient "hung@nuce.vn" OK...
+Client: DATA
+Server: 250 Message accepted for delivery.
+Client: QUIT
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: pass asnkasc ascnkasc
+Server: 501 Syntax error
+Client: pass
+Server: 530 Login or password incorrect!
+Client: u\
+Server: 500 Unknown command
+Client: pass hunghp
+Server: 530 Login or password incorrect!
+Client: user hung
+Server: 331 Password required for hung
+Client: user hung
+Server: 331 Password required for hung
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 530 Login or password incorrect!
+Client: user dash
+Server: 331 Password required for dash
+Client: pass dash
+Server: 230 Logged on
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass das
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user dash
+Server: 331 Password required for dash
+Client: pass dash
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 530 Login or password incorrect!
+Client: list
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: nhom2 
+Server: 500 Unknown command
+Client: user nhiom2
+Server: 331 Password required for nhiom2
+Client: nh
+Server: 500 Unknown command
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: list
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 230 Logged on
+.
+..
+Ban-phan-tich-thiet-ke-Nhom-2.docx
+bieu-do-uml.png
+Do an - FTP client.pdf
+Do an - FTP server.pdf
+Do an - HTTP client.pdf
+Do an - HTTP server.pdf
+Do an - POP3 client.pdf
+Do an - POP3 server.pdf
+Do an - Remote Command.pdf
+FileZilla
+FTP-demo
+img
+lab1xaydungftpserver-150406233932-conversion-gate01.pdf
+muc-dich-phan-tich.png
+muc-dich-thiet-ke-2.png
+muc-dich-thiet-ke.png
+Ph?n m?m Server-20200324.zip
+SMTP Client.pdf
+SMTP Server.pdf
+SmtpClient.rar
+SMTPServer.rar
+Thông tin chung d? án LTHTM (1).pdf
+~$n-phan-tich-thiet-ke-Nhom-2.docx
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user dash
+Server: 331 Password required for dash
+Client: pass dash
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user hung
+Server: 331 Password required for hung
+Client: pass 
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user dash
+Server: 331 Password required for dash
+Client: pass dash
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: o
+Server: 500 Unknown command
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 49193.
+..
+Ban-phan-tich-thiet-ke-Nhom-2.docx
+bieu-do-uml.png
+Do an - FTP client.pdf
+Do an - FTP server.pdf
+Do an - HTTP client.pdf
+Do an - HTTP server.pdf
+Do an - POP3 client.pdf
+Do an - POP3 server.pdf
+Do an - Remote Command.pdf
+FileZilla
+FTP-demo
+img
+lab1xaydungftpserver-150406233932-conversion-gate01.pdf
+muc-dich-phan-tich.png
+muc-dich-thiet-ke-2.png
+muc-dich-thiet-ke.png
+Ph?n m?m Server-20200324.zip
+SMTP Client.pdf
+SMTP Server.pdf
+SmtpClient.rar
+SMTPServer.rar
+Thông tin chung d? án LTHTM (1).pdf
+~$n-phan-tich-thiet-ke-Nhom-2.docx
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: uer
+Server: 500 Unknown command
+Client: user ds
+Server: 331 Password required for ds
+Client: user dash
+Server: 331 Password required for dash
+Client: pass dash
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 51236.
+..
+Ban-phan-tich-thiet-ke-Nhom-2.docx
+bieu-do-uml.png
+Do an - FTP client.pdf
+Do an - FTP server.pdf
+Do an - HTTP client.pdf
+Do an - HTTP server.pdf
+Do an - POP3 client.pdf
+Do an - POP3 server.pdf
+Do an - Remote Command.pdf
+FileZilla
+FTP-demo
+img
+lab1xaydungftpserver-150406233932-conversion-gate01.pdf
+muc-dich-phan-tich.png
+muc-dich-thiet-ke-2.png
+muc-dich-thiet-ke.png
+Ph?n m?m Server-20200324.zip
+SMTP Client.pdf
+SMTP Server.pdf
+SmtpClient.rar
+SMTPServer.rar
+Thông tin chung d? án LTHTM (1).pdf
+~$n-phan-tich-thiet-ke-Nhom-2.docx
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user h
+Server: 331 Password required for h
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: list
+Server: 503 Bad sequence of commands.
+Client: pasv
+Server: 503 Bad sequence of commands.
+Client: list
+Server: 503 Bad sequence of commands.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: list
+Server: 503 Bad sequence of commands.
+Client: pasv
+Server: 503 Bad sequence of commands.
+Client: list
+Server: 530 Please log in with USER and PASS first.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user hung
+Server: 331 Password required for hung
+Client: pahth
+Server: 500 Unknown command
+Client: pass hung
+Server: 530 Login or password incorrect!
+Client: user hung
+Server: 331 Password required for hung
+Client: pass
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: hung
+Server: 500 Unknown command
+Client: pass hung
+Server: 230 Logged on
+Client: cwd /
+Server: 250 CWD successfully!///
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user hung
+Server: 331 Password required for hung
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: cwd /
+Server: 250 CWD successfully, / is current directory
+Client: cwd test1
+Server: 250 CWD successfully!/test1/
+Client: cd
+Server: 500 Unknown command
+Client: cwd /
+Server: 250 CWD successfully, / is current directory
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass 123231
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: epsev
+Server: 500 Unknown command
+Client: pasv
+Server: 500 Unknown command
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: uez
+Server: 500 Unknown command
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr bieudouml.png
+Server: 350 Ready for destination name bieudouml.png
+Client: rnto bieu-do-uml.png
+Server: 250 Rename successfully!
+Client: oas
+Server: 500 Unknown command
+Client: pasv
+Server: 500 Unknown command
+Client: list
+Server: 226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr bieudouml.png
+Server: 550 file or folder is not exists
+Client: rnto bieu.png
+Server: 503 Bad sequence of commands!
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: rnfr bieudouml.pm
+Server: 530 Please log in with USER and PASS first
+Client: rnto
+Server: 501 Syntax error
+Client: [Arnto a.png
+Server: 500 Unknown command
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: cwd J:\Frog\w-e-p\LapTrinhHeThongMang\DoAnLTHTM\img
+Server:  550 folder is not exist!/r/nClient: [A
+Server: 500 Unknown command
+Client: [Acwd img
+Server: 500 Unknown command
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: cwd img
+Server: 250 CWD successfully!/img/
+Client: pasv
+Server: 250 CWD successfully!/img/
+Client: list
+Server: 226 Successfully transferred.
+Client: list
+Server: 226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user hung
+Server: 331 Password required for hung
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr test.txt
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: pasv
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr test.txt
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: pasv
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: stor ss.txt
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: stor uh.txt
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 503 Bad sequence of commands.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: [A[Blist
+Server: Syntax error, command unrecognizedClient: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: list
+Server: 503 Bad sequence of commands.
+Client: pasv
+Server: 503 Bad sequence of commands.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: epsv
+Server: Syntax error, command unrecognizedClient: pasv
+Server: Syntax error, command unrecognizedClient: list
+Server: 425
+Client: pasv
+Server: 425
+Client: list
+Server: 530 Please log in with USER and PASS first.
+Client: pasv
+Server: 530 Please log in with USER and PASS first.
+Client: quit4
+Server: Syntax error, command unrecognizedClient: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pwd
+Server: 530 Please log in with USER and PASS first
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass n
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pwd 3
+Server: 257 /is current directory.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pwd
+Server: 257 " / " is current directory.
+Client: pwd
+Server: 257 " / " is current directory.
+Client: pwd 333
+Server: 257 " / " is current directory.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: lst
+Server: Syntax error, command unrecognized
+Client: list
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: pasv
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: retr test.txt
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: stor 2.txt
+Server: 503 Bad sequence of commands.
+Client: pasv
+Server: 503 Bad sequence of commands.
+Client: stor dung.txt
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: list
+Server: 503 Bad sequence of commands.
+Client: [Apasv
+Server: Syntax error, command unrecognized
+Client: pav
+Server: Syntax error, command unrecognized
+Client: pasv
+Server: Syntax error, command unrecognized
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: list
+Server: 150 Opening data channel for directory listing of "/".
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr test.txt
+Server: 150 Opening data channel for file download from server of "/test.txt".
+226 Successfully transferred "/test.txt".
+Client: pasv
+Server: 150 Opening data channel for file download from server of "/test.txt".
+226 Successfully transferred "/test.txt".
+Client: retr tett.txt
+Server: 550 File not found.
+Client: retr test.txt
+Server: 503 Bad sequence of commands.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr
+Server: 501 Syntax error.
+Client: retr test.txt
+Server: 425 Can't open data connection for transfer of  "/"
+Client: retr test.txt
+Server: 150 Opening data channel for file download from server of "/test.txt".
+226 Successfully transferred "/test.txt".
+Client: stor
+Server: 501 Syntax error.
+Client: stor uu.tt
+Server: 503 Bad sequence of commands.
+Client: pasv
+Server: 503 Bad sequence of commands.
+Client: stor tt.txt
+Server: 
+
+Connection to host lost.
+
+Press any key to continute...226 Successfully transferred "/tt.txt".
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: paas
+Server: Syntax error, command unrecognized
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: stor hung.txt
+Server: 226 Successfully transferred "/hung.txt".
+Client: pasv
+Server: 226 Successfully transferred "/hung.txt".
+Client: stor dung.txt
+Server: 226 Successfully transferred "/dung.txt".
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass dung
+Server: 530 Login or password incorrect!
+Client: uquit
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pasv
+Server: 331 Password required for nhom2
+Client: list
+Server: 530 Please log in with USER and PASS first.
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hn
+Server: 530 Login or password incorrect!
+Client: pass hung
+Server: 230 Logged on
+Client: list
+Server: 503 Bad sequence of commands.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: list
+Server: 503 Bad sequence of commands.
+Client: pasv
+Server: 503 Bad sequence of commands.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: list
+Server: 530 Please log in with USER and PASS first.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: ope\user nhom2
+Server: Syntax error, command unrecognized
+Client: quit'
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: retr dung.txt
+Server: 530 Please log in with USER and PASS first.
+Client: quuit
+Server: Syntax error, command unrecognized
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hug
+Server: 530 Login or password incorrect!
+Client: pass 
+Server: 530 Login or password incorrect!
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: retr test.txt
+Server: 503 Bad sequence of commands.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr test.txt
+Server: 425 Can't open data connection for transfer of  "/"
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr fufu.txt
+Server: 550 File not found.
+Client: retr test.txt
+Server: 503 Bad sequence of commands.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: retr test.txt
+Server: 150 Opening data channel for file download from server of "/test.txt".
+226 Successfully transferred "/test.txt".
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: stor gugu.txt4
+Server: 530 Please log in with USER and PASS first.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: stor gugu.txt
+Server: 226 Successfully transferred "/gugu.txt".
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: retr gugu.txt
+Server: 503 Bad sequence of commands.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: re
+Server: Syntax error, command unrecognized
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: stor dung.txt
+Server: 425 Can't open data connection for transfer of  "/"
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: stor dung.txt
+Server: 226 Successfully transferred "/dung.txt".
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: usesr quit
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pwd
+Server: 530 Please log in with USER and PASS first
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pewd
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: pwd
+Server: 257 "/" is current directory.
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: s
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: cwd ftp
+Server: 530 Please log in with USER and PASS first
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: cwd ftp
+Server:  550 folder is not exist!
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: cwd
+Server: 501 Syntax error
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: cwd img
+Server: 250 CWD successfully! //img
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: rnfr dung.txt
+Server: 530 Please log in with USER and PASS first
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr 
+Server: 501 Syntax error
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2]
+Server: 331 Password required for nhom2]
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr hung.txt
+Server: 550 file or folder is not exists
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr dung.txt
+Server: 350 Ready for destination name dung.txt
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnto sang.txt
+Server: 503 Bad sequence of commands!
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnto 
+Server: 501 Syntax error
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: rnto sang.txt
+Server: 530 Please log in with USER and PASS first
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nho2
+Server: 331 Password required for nho2
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr dung.txt
+Server: 350 Ready for destination name dung.txt
+Client: rnto
+Server: 501 Syntax error
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr dung.txt
+Server: 350 Ready for destination name dung.txt
+Client: rnto test.txt
+Server: 550 Rename fail, file or folder is not exists
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: rnfr dung.txt
+Server: 350 Ready for destination name dung.txt
+Client: rnto sang.txt
+Server: 250 Rename successfully!
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: dele sang.txt
+Server: 530 Please log in with USER and PASS first.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: dele hung.txt
+Server: 550 File not found
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2]
+Server: 331 Password required for nhom2]
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: dele
+Server: 501 Syntax error
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hug
+Server: 530 Login or password incorrect!
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 230 Logged on
+Client: dele sang.txt
+Server: 250 File deleted successfully
+Client: quit
+Server: 221 Good bye
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: ueuser nzz
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: OPTS UTF8 ON
+Server: Syntax error, command unrecognized
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS hung
+Server: 230 Logged on
+Client: XPWD
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: OPTS UTF8 ON
+Server: Syntax error, command unrecognized
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS hung
+Server: 230 Logged on
+Client: DELE test.txt
+Server: 250 File deleted successfully
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: OPTS UTF8 ON
+Server: Syntax error, command unrecognized
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS pass
+Server: 530 Login or password incorrect!
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS hung
+Server: 230 Logged on
+Client: PORT 127,0,0,1,220,182
+Server: Syntax error, command unrecognized
+Client: RNFR test.txt
+Server: 550 file or folder is not exists
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: OPTS UTF8 ON
+Server: Syntax error, command unrecognized
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS hung
+Server: 230 Logged on
+Client: RNFR test.txt
+Server: 550 file or folder is not exists
+Client: RNFR test
+Server: 550 file or folder is not exists
+Client: XPWD
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hn
+Server: 530 Login or password incorrect!
+Client: pass hung
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: 6066
+Server: Syntax error, command unrecognized
+Client: retr test.txt
+Server: 150 Opening data channel for file download from server of "/test.txt".
+226 Successfully transferred "/test.txt".
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: USER anonymous
+Server: 331 Password required for anonymous
+Client: PASS IEUser@
+Server: 530 Login or password incorrect!
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: USER anonymous
+Server: 331 Password required for anonymous
+Client: PASS IEUser@
+Server: 530 Login or password incorrect!
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS nhom2
+Server: 230 Logged on
+Client: opts utf8 on
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS nhom2
+Server: 230 Logged on
+Client: opts utf8 on
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS nhom2
+Server: 230 Logged on
+Client: opts utf8 on
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: OPTS UTF8 ON
+Server: Syntax error, command unrecognized
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS nhon2
+Server: 530 Login or password incorrect!
+Client: USER nhon2
+Server: 331 Password required for nhon2
+Client: PASS user
+Server: 530 Login or password incorrect!
+Client: USER nhom2
+Server: 331 Password required for nhom2
+Client: PASS nhom2
+Server: 230 Logged on
+Client: PORT 127,0,0,1,200,150
+Server: Syntax error, command unrecognized
+Client: PORT 127,0,0,1,200,151
+Server: Syntax error, command unrecognized
+Client: PORT 127,0,0,1,200,152
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: pasv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: pwd
+Server: 257 "/" is current directory.
+Client: cwd test
+Server:  550 folder is not exist!
+Client: cwd img
+Server: 250 CWD successfully! //img
+Client: pasv
+Server: 250 CWD successfully! //img
+Client: list
+Server: 150 Opening data channel for directory listing of "//img"
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: Syntax error, command unrecognized
+Client: list
+Server: 503 Bad sequence of commands.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: pwd
+Server: 257 "/" is current directory.
+Client: cwd img
+Server: 250 CWD successfully! //img
+Client: epsv
+Server: Syntax error, command unrecognized
+Client: list
+Server: 503 Bad sequence of commands.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: pwd
+Server: 257 "/" is current directory.
+Client: epsv
+Server: 257 "/" is current directory.
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: pwd
+Server: 257 "/" is current directory.
+Client: epsv
+Server: 257 "/" is current directory.
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: pwd
+Server: 257 "/" is current directory.
+Client: epsv
+Server: 257 "/" is current directory.
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: epsv
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 192.168.51.88
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: epsv
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: epsv
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: u
+Server: Syntax error, command unrecognized
+Client: z
+Server: Syntax error, command unrecognized
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 530 Login or password incorrect!
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: pasv
+Server: Syntax error, command unrecognized
+Client: epev
+Server: Syntax error, command unrecognized
+Client: epsv
+Server: Syntax error, command unrecognized
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: ueuser nhom2
+Server: Syntax error, command unrecognized
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: passs nhom2
+Server: Syntax error, command unrecognized
+Client: [Auser nhom2
+Server: Syntax error, command unrecognized
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhoom2
+Server: 331 Password required for nhoom2
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: stor test.txt
+Server: 425 Can't open data connection for transfer of  "/"
+Client: stor text.txt
+Server: 226 Successfully transferred "/text.txt".
+Client: list
+Server: 503 Bad sequence of commands.
+Client: dele text.tx
+Server: 550 File not found
+Client: dele text.txt
+Server: 250 File deleted successfully
+Client: cd 
+Server: Syntax error, command unrecognized
+Client: cwd test2
+Server:  550 folder is not exist!
+Client: cwd test
+Server: 250 CWD successfully! //test
+Client: epsv
+Server: 250 CWD successfully! //test
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass hung
+Server: 530 Login or password incorrect!
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsn
+Server: 500 Syntax error, command unrecognized
+Client: epsv
+Server: 500 Syntax error, command unrecognized
+Client: list
+Server: 425 Can't open data connection for transfer of  "/"
+Client: epsv
+Server: 425 Can't open data connection for transfer of  "/"
+Client: list
+Server: 150 Opening data channel for directory listing of "/"
+226 Successfully transferred.
+Client: list
+Server: 503 Bad sequence of commands.
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nho2
+Server: 530 Login or password incorrect!
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: epsv
+Server: Entering Extended Passive Mode (|||51236|).
+Client: 
+--- Session end ---
+--- Session start ---
+Remote IP: 127.0.0.1
+Time: 
+Server: 220 Simple FTP Server v1.0 is ready
+Client: user nhom2
+Server: 331 Password required for nhom2
+Client: pass nhom2
+Server: 230 Logged on
+Client: epsv
+Server: 230 Logged on
+Client: retr test.dox
+Server: 550 File not found.
+Client: epsv
+Server: 550 File not found.
+Client: 
+--- Session end ---
